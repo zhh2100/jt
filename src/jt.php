@@ -1,6 +1,6 @@
 <?php
 namespace jetee\jt;
-class article
+class Jt
 {
     public function init()
     {

@@ -1,4 +1,4 @@
-# jt
+# JT只是为了取个名
 JT静态文章系统  JT static presentation of the article system
 类似dedecms，但更多以插件，模块形式使用。
 
@@ -6,5 +6,5 @@ JT静态文章系统  JT static presentation of the article system
 公网能访问的目录下
 ```php
 require __DIR__ . '/../vendor/autoload.php';
-new \jetee\jt\article()->init();
+(new \jetee\jt\Jt())->init();
 ```
