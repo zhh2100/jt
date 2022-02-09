@@ -1,9 +1,9 @@
 <?php
-namespace think\app;
-class jt
+namespace jetee\jt;
+class article
 {
-    public function get()
+    public function init()
     {
-        return 'hello';
+        echo 'hello';
     }
 }
