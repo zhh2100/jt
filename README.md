@@ -4,5 +4,7 @@ JT静态文章系统  JT static presentation of the article system
 
 #使用方法
 公网能访问的目录下
+```php
 require __DIR__ . '/../vendor/autoload.php';
 new \jetee\jt\article()->init();
+```
