@@ -1,3 +1,10 @@
+
+JT遵循MIT开源协议发布，并提供免费使用。
+版权所有Copyright © 2010-2022 by jetee (http://jt2100.com)
+All rights reserved。
+JT® 商标和著作权所有者为广东阶梯技术有限公司
+
+
 MIT License
 
 Copyright (c) 2022 zhh2100
