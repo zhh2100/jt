@@ -121,7 +121,7 @@
 	<div style="padding: 10px 0;">获取文章ID接口php示例</div>
 	<div>
 		<textarea id="getLists" required="" style="width:100%;height: 300px;border-color: #ccc;"><?php
-echo  htmlspecialchars(file_get_contents($this->jtPath.'inc/list.php'));
+echo  htmlspecialchars(file_get_contents($this->jtPath.'../demo/list.php'));
 ?></textarea>
 	</div>
 </div>
@@ -131,7 +131,7 @@ echo  htmlspecialchars(file_get_contents($this->jtPath.'inc/list.php'));
 	<div style="padding: 10px 0;">获取文章内容接口php示例</div>
 	<div>
 		<textarea id="getContent" required="" style="width:100%;height: 300px;border-color: #ccc;"><?php
-echo  htmlspecialchars(file_get_contents($this->jtPath.'inc/content.php'));
+echo  htmlspecialchars(file_get_contents($this->jtPath.'../demo/content.php'));
 ?></textarea>
 	</div>
 </div>
