@@ -1,18 +1,19 @@
 {
-  "name": "jetee/jt",
-  "description": "JT静态文章系统 JT static presentation of the article system 类似dedecms，但更多以插件，模块形式使用。",
-  "authors": [
-    {
-      "name": "jetee",
-      "email": "zhh2100@qq.com"
-    }
-  ],
-  "require": {
-    "php": ">=5.6"
-  },
-  "autoload": {
-    "psr-4": {
-      "jetee\\jt\\": "src"
-    }
-  }
+	"name": "jetee/jt",
+	"description": "JT静态文章系统 JT static presentation of the article system 类似dedecms，但更多以插件，模块形式使用。",
+	"homepage": "https://github.com/zhh2100/jt.git",
+	"authors": [
+		{
+			"name": "jetee",
+			"email": "zhh2100@qq.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6"
+	},
+	"autoload": {
+		"psr-4": {
+			"jetee\\jt\\": "src"
+		}
+	}
 }
